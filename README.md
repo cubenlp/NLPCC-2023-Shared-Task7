@@ -7,3 +7,5 @@ Track 1. **Coherence Evaluation (CE)**. Given a middle school student essay, ann
 Track 2. **Text Topic Extraction (TTE)**. Given a middle school student essay, annotators need to identify the topic sentence for each paragraph and one main topic sentence for the whole essay.  
 Track 3. **Paragraph Logical Relation Recognition (PLRR)**. Given two paragraphs sorted in order from a composition, the annotator needs to determine the logical relationship between the two paragraphs based on the given definitions and examples of logical relationships.  
 Track 4. **Sentence Logical Relation Recognition (SLRR).** Given two sentences from an essay that are ordered sequentially, the annotator needs to determine what type of logical relation exists between them based on given definitions and examples.
+
+The detailed content of the guideline can be found in the file _Chinese Essay Discourse Coherence Evaluation.pdf_
