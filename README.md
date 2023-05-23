@@ -1,5 +1,6 @@
 # Shared-Task-7 Chinese Essay Discourse Coherence Evaluation
 
+
 # 最新消息
 
 | 时间 | 消息 |
@@ -7,6 +8,31 @@
 | 5月23日 |  track4的训练集和验证集有更新，训练集增加250条数据，验证集增加10条数据|
 | 5月20日 |  测试集已发布，结果提交链接已发送至各组队长邮箱，提交结果榜单详见各赛道Github主页|
 | 5月8日 | 已通过邮件的方式将官方微信群二维码发送给5月5日之前报名的队伍 |
+
+# 排行榜
+
+&emsp;&emsp;结果统计截止至2023年5月23日，榜单更新时间：2023年5月23日。
+
+## Track 1
+
+| Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
+| --- | --- | --- | --- | --- | --- |
+| EssayFlow | 210***@stu.pku.edu.cn | 38.50 | 43.54 | 32.54 | 43.99 |
+| ouchnai | zhe***@ouchn.edu.cn | 33.24 | 32.86 | 32.88 | 35.15 |
+| Evay Info AI Team | 921***@qq.com | 32.72 | 33.29 | 28.03 | 37.64 |
+
+## Track 3
+
+| Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
+| --- | --- | --- | --- | --- | --- |
+| wuwuwu | don***@sjtu.edu.cn | 28.36 | 25.43 | 26.80 | 51.10 |
+
+## Track 4
+
+| Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
+| --- | --- | --- | --- | --- | --- |
+| ouchnai | zhe***@ouchn.edu.cn | 36.63 | 36.36 | 34.38 | 53.95 |
+
 
 # Introduction
  
