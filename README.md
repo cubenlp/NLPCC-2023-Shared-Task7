@@ -11,7 +11,7 @@
 
 # 排行榜
 
-&emsp;&emsp;结果统计截止至2023年5月26日，榜单更新时间：2023年5月26日。
+&emsp;&emsp;结果统计截止至2023年5月27日，榜单更新时间：2023年5月27日。
 
 ## Track 1 (每队历史最好成绩排行榜)
 
@@ -22,11 +22,12 @@
 | ouchnai | zhe***@ouchn.edu.cn | 36.38 | 41.32 | 33.22 | 34.92 |
 | CLsuper | yxi***@163.com | 34.20 | 34.14 | 32.79 | 32.88 |
 
-### Track 1 (2023年5月26日提交结果，未排名)
+### Track 1 (2023年5月27日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| Evay Info AI Team | 921***@qq.com | 35.39 | 34.01 | 29.36 | 41.27 |
+| CLsuper | yxi***@163.com | 32.62 | 28.20 | 27.38 | 29.48 |
+
 
 
 ## Track 3 (每队历史最好成绩排行榜)
@@ -37,11 +38,11 @@
 | wuwuwu | don***@sjtu.edu.cn | 28.36 | 25.43 | 26.80 | 51.10 |
 | BLCU_teamworkers | sol***@163.com| 25.89 | 25.15 | 24.19 | 46.56 |
 
-### Track 3 (2023年5月26日提交结果，未排名)
+### Track 3 (2023年5月27日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| ouchnai | zhe***@ouchn.edu.cn | 54.66 | 52.45 | 52.16 | 71.03 |
+| BLCU_teamworkers | sol***@163.com| 25.57 | 23.53 | 22.00 | 47.95 |
 
 
 
@@ -51,7 +52,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ouchnai | zhe***@ouchn.edu.cn | 36.63 | 36.36 | 34.38 | 53.95 |
 
-### Track 4 (2023年5月26日提交结果，未排名)
+### Track 4 (2023年5月27日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
