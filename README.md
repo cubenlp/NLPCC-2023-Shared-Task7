@@ -11,22 +11,24 @@
 
 # 排行榜
 
-&emsp;&emsp;结果统计截止至2023年5月28日，榜单更新时间：2023年5月28日。
+&emsp;&emsp;结果统计截止至2023年5月29日，榜单更新时间：2023年5月29日。
 
 ## Track 1 (每队历史最好成绩排行榜)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | EssayFlow | 210***@stu.pku.edu.cn | 38.50 | 43.54 | 32.54 | 43.99 |
-| Evay Info AI Team | 921***@qq.com | 36.07 | 38.24 | 33.38 | 37.19 |
+| Evay Info AI Team | 921***@qq.com | 35.34 | 35.24 | 34.52 | 37.87 |
 | ouchnai | zhe***@ouchn.edu.cn | 36.38 | 41.32 | 33.22 | 34.92 |
-| CLsuper | yxi***@163.com | 34.20 | 34.14 | 32.79 | 32.88 |
+| CLsuper | yxi***@163.com | 34.13 | 34.28 | 32.80 | 32.88 |
 
-### Track 1 (2023年5月28日提交结果，未排名)
+### Track 1 (2023年5月29日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| EssayFlow | 210***@stu.pku.edu.cn | 36.24 | 37.51 | 29.70 | 41.50 |
+| EssayFlow | 210***@stu.pku.edu.cn | 35.93 | 39.38 | 31.35 | 40.82 |
+| CLsuper | yxi***@163.com | 34.13 | 34.28 | 32.80 | 32.88 |
+| Evay Info AI Team | 921***@qq.com | 35.34 | 35.24 | 34.52 | 37.87 |
 
 
 
@@ -35,14 +37,16 @@
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | ouchnai | zhe***@ouchn.edu.cn | 54.66 | 52.45 | 52.16 | 71.03 |
-| wuwuwu | don***@sjtu.edu.cn | 28.36 | 25.43 | 26.80 | 51.10 |
-| BLCU_teamworkers | sol***@163.com| 25.89 | 25.15 | 24.19 | 46.56 |
+| wuwuwu | don***@sjtu.edu.cn | 29.06 | 31.97 | 26.70 | 34.87 |
+| BLCU_teamworkers | sol***@163.com| 27.17 | 27.65 | 25.95 | 48.73 |
 
-### Track 3 (2023年5月27日提交结果，未排名)
+
+### Track 3 (2023年5月29日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| BLCU_teamworkers | sol***@163.com| 25.57 | 23.53 | 22.00 | 47.95 |
+| BLCU_teamworkers | sol***@163.com| 27.17 | 27.65 | 25.95 | 48.73 |
+| wuwuwu | don***@sjtu.edu.cn | 29.06 | 31.97 | 26.70 | 34.87 |
 
 
 
