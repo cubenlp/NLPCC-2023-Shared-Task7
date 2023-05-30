@@ -11,25 +11,44 @@
 
 # 排行榜
 
-&emsp;&emsp;结果统计截止至2023年5月29日，榜单更新时间：2023年5月29日。
+&emsp;&emsp;结果统计截止至2023年5月30日，榜单更新时间：2023年5月30日。
 
 ## Track 1 (每队历史最好成绩排行榜)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | EssayFlow | 210***@stu.pku.edu.cn | 38.50 | 43.54 | 32.54 | 43.99 |
-| Evay Info AI Team | 921***@qq.com | 35.34 | 35.24 | 34.52 | 37.87 |
+| Evay Info AI Team | 921***@qq.com | 35.64 | 35.70 | 35.61 | 36.05 |
 | ouchnai | zhe***@ouchn.edu.cn | 36.38 | 41.32 | 33.22 | 34.92 |
 | CLsuper | yxi***@163.com | 34.13 | 34.28 | 32.80 | 32.88 |
 
-### Track 1 (2023年5月29日提交结果，未排名)
+### Track 1 (2023年5月30日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| EssayFlow | 210***@stu.pku.edu.cn | 35.93 | 39.38 | 31.35 | 40.82 |
-| CLsuper | yxi***@163.com | 34.13 | 34.28 | 32.80 | 32.88 |
-| Evay Info AI Team | 921***@qq.com | 35.34 | 35.24 | 34.52 | 37.87 |
+| EssayFlow | 210***@stu.pku.edu.cn | 35.31 | 35.58 | 32.22 | 39.68 |
+| Evay Info AI Team | 921***@qq.com | 35.64 | 35.70 | 35.61 | 36.05 |
 
+## Track 2(每队历史最好成绩排行榜)
+
+| Team Name | Email | Paragraph Accuracy | Full Accuracy | Final Accuracy | Paragraph Similarity | Full Similarity |
+| --- | --- | --- | --- | --- | --- | --- |
+| wuwuwu | don***@sjtu.edu.cn | 61.27 | 34.92 | 42.82 | 87.34 | 80.37 |
+| ouchnai | zhe***@ouchn.edu.cn | 62.61 | 23.81 | 35.45 | 85.20 | 76.11 |
+
+### Track 2 (2023年5月29日提交结果，未排名)
+
+| Team Name | Email | Paragraph Accuracy | Full Accuracy | Final Accuracy | Paragraph Similarity | Full Similarity |
+| --- | --- | --- | --- | --- | --- | --- |
+| wuwuwu | don***@sjtu.edu.cn | 59.44 | 23.58 | 34.34 | 86.41 | 66.97 |
+
+
+### Track 2 (2023年5月30日提交结果，未排名)
+
+| Team Name | Email | Paragraph Accuracy | Full Accuracy | Final Accuracy | Paragraph Similarity | Full Similarity |
+| --- | --- | --- | --- | --- | --- | --- |
+| wuwuwu | don***@sjtu.edu.cn | 61.27 | 34.92 | 42.82 | 87.34 | 80.37 |
+| ouchnai | zhe***@ouchn.edu.cn | 62.61 | 23.81 | 35.45 | 85.20 | 76.11 |
 
 
 ## Track 3 (每队历史最好成绩排行榜)
@@ -37,16 +56,16 @@
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | ouchnai | zhe***@ouchn.edu.cn | 54.66 | 52.45 | 52.16 | 71.03 |
-| wuwuwu | don***@sjtu.edu.cn | 29.06 | 31.97 | 26.70 | 34.87 |
+| wuwuwu | don***@sjtu.edu.cn | 29.26 | 28.98 | 28.77 | 46.97 |
 | BLCU_teamworkers | sol***@163.com| 27.17 | 27.65 | 25.95 | 48.73 |
 
 
-### Track 3 (2023年5月29日提交结果，未排名)
+### Track 3 (2023年5月30日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| BLCU_teamworkers | sol***@163.com| 27.17 | 27.65 | 25.95 | 48.73 |
-| wuwuwu | don***@sjtu.edu.cn | 29.06 | 31.97 | 26.70 | 34.87 |
+| BLCU_teamworkers | sol***@163.com| 26.66 | 26.82 | 25.32 | 41.86 |
+| wuwuwu | don***@sjtu.edu.cn | 29.26 | 28.98 | 28.77 | 46.97 |
 
 
 
