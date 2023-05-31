@@ -74,12 +74,15 @@
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | ouchnai | zhe***@ouchn.edu.cn | 36.63 | 36.36 | 34.38 | 53.95 |
+| wuwuwu | don***@sjtu.edu.cn |  13.17 | 12.97 | 12.11 | 20.83 |
 
-### Track 4 (2023年5月27日提交结果，未排名)
+
+### Track 4 (2023年5月30日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
-| ouchnai | zhe***@ouchn.edu.cn | 35.86 | 39.22 | 32.68 | 55.90 |
+| wuwuwu | don***@sjtu.edu.cn | 13.17 | 12.97 | 12.11 | 20.83 |
+
 
 # Introduction
  
