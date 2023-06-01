@@ -27,6 +27,7 @@
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
 | EssayFlow | 210***@stu.pku.edu.cn | 35.83 | 35.78 | 33.05 | 40.14 |
+| Evay Info AI Team | 921***@qq.com | 35.64 | 35.70 | 35.61 | 36.05 |
 
 ## Track 2(每队历史最好成绩排行榜)
 
