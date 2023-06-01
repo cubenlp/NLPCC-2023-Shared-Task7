@@ -71,9 +71,11 @@
 | --- | --- | --- | --- | --- | --- |
 | ouchnai | zhe***@ouchn.edu.cn | 36.63 | 36.36 | 34.38 | 53.95 |
 | wuwuwu | don***@sjtu.edu.cn | 23.49 | 25.37 | 23.67 | 39.94 |
+| BLCU_teamworkers | sol***@163.com| 7.55 | 6.30 | 6.32 | 18.35 |
 
 
-### Track 4 (2023年5月30日提交结果，未排名)
+
+### Track 4 (2023年5月31日提交结果，未排名)
 
 | Team Name | Email | Precision | Recall | Macro-F1 | Accuracy |
 | --- | --- | --- | --- | --- | --- |
